@@ -18,10 +18,10 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "Start TKmaxx",
-	"BUTTON_NAME_2": "Begin Shopping",
+	"BUTTON_NAME_1": "Start Wilko",
+	"BUTTON_NAME_2": "Star Shopping",
 
-	"URL" : "https://www.tkmaxx.com/",
+	"URL" : "https://www.tkmaxZx.com/",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":false
