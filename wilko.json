@@ -1,7 +1,7 @@
 {
 
-	"admob_banner":"ca-app-pub-8697844878482426/8223130443",
-	"admob_inter":"ca-app-pub-8697844878482426/5842656916",
+	"admob_banner":"ca-app-pub-9911324429492298/5887595817",
+	"admob_inter":"ca-app-pub-9911324429492298/9839600498",
 
 	"APP_KEY": "13bc39059",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -19,7 +19,7 @@
 	"popAppIsActive": false,
 
 	"BUTTON_NAME_1": "Start Wilko",
-	"BUTTON_NAME_2": "Star Shopping",
+	"BUTTON_NAME_2": "Start Shopping",
 
 	"URL" : "https://www.wilko.com/",
 
